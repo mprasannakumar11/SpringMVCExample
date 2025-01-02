@@ -1,0 +1,2 @@
+# SpringMVCExample
+SpringMVC usig restcontroller 
